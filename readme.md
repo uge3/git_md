@@ -19,3 +19,11 @@ def calss():
 
 
 3333
+
+
+
+```python
+class server_socket():
+    s=socketserver
+```
+
